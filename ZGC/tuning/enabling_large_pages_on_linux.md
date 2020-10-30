@@ -1,4 +1,4 @@
-# Enabling Large Pages On Linux
+# Enabling Large Pages On Linux （❤️）
 
 Configuring ZGC to use large pages will generally yield better performance (in terms of throughput, latency and start up time) and comes with no real disadvantage, except that it's slightly more complicated to setup. The setup process typically requires root privileges, which is why it's not enabled by default.
 
