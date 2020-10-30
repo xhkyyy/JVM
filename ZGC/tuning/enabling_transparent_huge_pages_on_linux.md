@@ -1,4 +1,4 @@
-# Enabling Transparent Huge Pages On Linux
+# Enabling Transparent Huge Pages On Linux （😭）
 
 An alternative to using explicit large pages (as described above) is to use transparent huge pages. Use of transparent huge pages is usually not recommended for latency sensitive applications, because it tends to cause unwanted latency spikes. However, it might be worth experimenting with to see if/how your workload is affected by it. But be aware, your mileage may vary.
 
